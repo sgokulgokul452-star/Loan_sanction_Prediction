@@ -1,0 +1,6 @@
+#Required laibraries
+Pandas
+Numpy
+Matplotlib
+seaborn 
+Scikit-learn
